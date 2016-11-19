@@ -3,7 +3,6 @@ $(function() {
 
     pertama = [0, 0, 0]
     kedua = [0, 0, 0]
-    tipe = 0
 
 
     $(".jawab-a").click(function() {
