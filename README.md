@@ -1,1 +1,1 @@
-# enneagram
+Enneagram
